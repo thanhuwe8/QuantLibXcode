@@ -123,6 +123,11 @@ void CalendarTesting2(){
 
 int main()
 {
-	CalendarTesting2();
+    DateTesting1();
+    DateTesting2();
+    DateTesting3();
+    DateTesting4();
+	CalendarTesting1();
+    CalendarTesting2();
 	return 0;
 }
