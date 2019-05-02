@@ -9,3 +9,7 @@
 
 # Note for implementation
 - The newest version of Quantlib is 1.15 (released Feb 2019) which incorporate the standard smart pointer (ext::shared_ptr) instead of the boost::shared_ptr. To use the syntax suggested by official documentation, please include "ext.cpp" and "ext.hpp" in the preprocessor of the main.cpp.
+
+# Reference
+- Ballabio, Luigi. "Implementing QuantLib." (2005).
+- Ametrano, Ferdinando, et al. "QuantLib: A free/open-source library for quantitative finance." (2018).
