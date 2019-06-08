@@ -13,3 +13,6 @@
 # Reference
 - Ballabio, Luigi. "Implementing QuantLib." (2005).
 - Ametrano, Ferdinando, et al. "QuantLib: A free/open-source library for quantitative finance." (2018).
+
+# License
+- The project is licensed under GPL3 License.
